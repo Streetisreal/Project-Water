@@ -5,3 +5,7 @@ Project Water is a revival for the Nintendo TVii Service that was never finished
 # Devs
 
 Street (Founder and Programmar)
+
+# Discord
+
+https://discord.gg/MAdjEUsHCh
